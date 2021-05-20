@@ -1,0 +1,20 @@
+[
+    {
+        "id": 101,
+        "name": "Saalu",
+        "company": "Google",
+        "position": "Sys Admin"
+    },
+    {
+        "id": 102,
+        "name": "Baba",
+        "company": "Nestle",
+        "position": "Mechanic"
+    },
+    {
+        "id": 103,
+        "name": "Saalu",
+        "company": "T-Hospital",
+        "position": "Doctor"
+    }
+]
